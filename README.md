@@ -1,3 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejaswini%20Ravipati-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswinirv8/)
+
+
+
 Hi, I'm Tejaswini 👋
 Senior Software Engineer | 8+ Years | Java • Python • Cloud • Backend • Distributed Systems
 I'm a Software Engineer with 8+ years of experience building scalable, reliable, and maintainable software systems.
